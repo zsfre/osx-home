@@ -2,4 +2,9 @@
 
 Stuff to help me set up a new Mac. 
 
-Requires Homebrew
+- checkout locally (possibly into your home directory)
+- run `brew bundle`
+- wait a long time
+
+Requires Homebrew https://brew.sh/
+
