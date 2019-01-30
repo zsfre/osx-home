@@ -35,7 +35,6 @@ cask "java"
 cask "java8"
 cask "pharo-launcher"
 cask "visual-studio-code"
-cask "vmware-fusion"
 
 brew "ant"
 brew "elixir"
@@ -49,6 +48,8 @@ brew "python3"
 # Mobile
 cask "android-studio"
 
+# Installations managed by IT
+# cask "vmware-fusion"
 
 # fonts
 # Patrick Hand
