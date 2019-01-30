@@ -1,0 +1,23 @@
+.bash_history
+.DS_Store
+.Trash
+.bash_sessions
+.viminfo
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+.CFUserTextEncoding
+.vmware
+.android
+.cups
+Virtual Machines.localized
+.ssh/id_*
+.ssh/z_*
+.ssh/github.com
+.ssh
+__MACOSX
