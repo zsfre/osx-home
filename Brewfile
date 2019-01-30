@@ -54,3 +54,5 @@ cask "android-studio"
 # Patrick Hand
 # https://www.roads.org.uk/sites/default/files/pages/fonts/transportmedium.zip
 # https://www.roads.org.uk/sites/default/files/pages/fonts/transportheavy.zip
+# https://github.com/tonsky/FiraCode
+
