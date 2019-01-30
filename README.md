@@ -6,5 +6,5 @@ Stuff to help me set up a new Mac.
 - run `brew bundle`
 - wait a long time
 
-Requires Homebrew https://brew.sh/
+Requires Homebrew https://brew.sh/ and possibly XCode (could have included it but it's such a large download).
 
