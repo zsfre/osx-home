@@ -26,6 +26,10 @@ brew "gnutls"
 brew "markdown"
 brew "pandoc"
 
+mas "1Password 7", id: 1333542190
+mas "Evernote", id:  406056744
+mas "TextWrangler", id:  404010395
+
 # programming
 cask "java"
 cask "java8"
