@@ -6,5 +6,8 @@ Stuff to help me set up a new Mac.
 - run `brew bundle`
 - wait a long time
 
-Requires Homebrew https://brew.sh/ and possibly XCode (could have included it but it's such a large download).
+Requires Homebrew https://brew.sh/ which will download the relevant command-line tools
+
+XCode not included because it's so large.
+
 
