@@ -34,6 +34,7 @@ mas "Evernote", id:  406056744
 mas "TextWrangler", id:  404010395
 
 # programming
+cask "emacs"
 cask "java"
 cask "java8"
 cask "pharo-launcher"
@@ -41,7 +42,6 @@ cask "visual-studio-code"
 
 brew "ant"
 brew "elixir"
-brew "emacs", args: ["with-cocoa", "with-gnutls"]
 brew "gradle"
 brew "jenv"
 brew "kotlin"
