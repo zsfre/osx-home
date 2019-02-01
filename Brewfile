@@ -7,9 +7,11 @@ tap "homebrew/cask-fonts"
 tap "homebrew/cask-drivers"
 tap "pharo-project/pharo"
 
+cask "firefox"
 cask "font-dejavu-sans"
 cask "font-bitstream-vera"
 cask "font-courier-prime"
+cask "font-fira-code"
 cask "font-input"
 cask "gimp"
 cask "google-chrome"
@@ -25,6 +27,7 @@ brew "git"
 brew "gnutls"
 brew "markdown"
 brew "pandoc"
+brew "wget"
 
 mas "1Password 7", id: 1333542190
 mas "Evernote", id:  406056744
@@ -52,7 +55,7 @@ cask "android-studio"
 # cask "vmware-fusion"
 
 # fonts
-# Patrick Hand
+# https://fonts.google.com/specimen/Patrick+Hand
 # https://www.roads.org.uk/sites/default/files/pages/fonts/transportmedium.zip
 # https://www.roads.org.uk/sites/default/files/pages/fonts/transportheavy.zip
 # https://github.com/tonsky/FiraCode
