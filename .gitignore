@@ -24,3 +24,11 @@ __MACOSX
 Projects
 .vscode/extensions
 OneDrive - Zuehlke
+tools
+.pub-cache
+.dart
+.dartServer
+.emulator_console_auth_token
+.flutter
+.gradle
+.jenv/version
