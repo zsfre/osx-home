@@ -15,8 +15,6 @@ cask "font-fira-code"
 cask "font-input"
 cask "gimp"
 cask "google-chrome"
-cask "java"
-cask "java8"
 cask "pharo-launcher"
 cask "visual-studio-code"
 cask "slack"
@@ -35,8 +33,8 @@ mas "TextWrangler", id:  404010395
 
 # programming
 cask "emacs"
-cask "java"
-cask "java8"
+cask "caskroom/versions/java8"
+cask "caskroom/versions/java8"
 cask "pharo-launcher"
 cask "visual-studio-code"
 

@@ -32,3 +32,8 @@ tools
 .flutter
 .gradle
 .jenv/version
+.cache
+.cocoapods
+.dropbox
+.local
+Dropbox-sf105
