@@ -46,6 +46,7 @@ brew "kotlin"
 brew "maven"
 brew "python3"
 brew "rust"
+brew "rustup"
 
 # Mobile
 cask "android-studio"
