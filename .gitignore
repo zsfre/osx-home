@@ -39,3 +39,6 @@ tools
 Dropbox-sf105
 Applications
 .docker
+.rustup
+.cargo
+.profile

@@ -26,6 +26,7 @@ brew "gnutls"
 brew "markdown"
 brew "pandoc"
 brew "wget"
+brew "gpg"
 
 mas "1Password 7", id: 1333542190
 mas "Evernote", id:  406056744
