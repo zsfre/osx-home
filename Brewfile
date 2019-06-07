@@ -34,7 +34,7 @@ mas "TextWrangler", id:  404010395
 
 # programming
 cask "emacs"
-cask "caskroom/versions/java8"
+cask "java8"
 cask "pharo-launcher"
 cask "visual-studio-code"
 
@@ -48,12 +48,17 @@ brew "python3"
 brew "rust"
 brew "rustup"
 
+# Cloud
+cask "google-cloud-sdk"
+cask "minikube"
+brew "terraform"
+
 # Docker
 cask "docker"
+brew "xhyve"
+
 brew "bash-completion"
 brew "docker-completion"
-brew "docker-compose-completion"
-brew "docker-machine-completion"
 
 # courseware
 brew "fop"
